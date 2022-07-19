@@ -30,8 +30,8 @@
 ## Um pouco sobre mim:
 
 
-- Tenho pouca experiência com programão. Mas buscando sempre melhorias para minha carreira.
-- Acho a programação extraordinário. estou aprendendo as linguagem de marcação para estruturar e exibir conteúdo HTML e CSS porem já estou vendo linguagem de programação como Javascript e Bootrap.<br>
+- Tenho pouca experiência com programação. Mas buscando sempre melhorias para minha carreira.
+- Acho a programação extraordinário. estou aprendendo as linguagem de marcação para estruturar e exibir conteúdo HTML e CSS porem já estou vendo linguagem de programação como Javascript e bootstrap<br>
 
 #
 
